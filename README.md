@@ -1,8 +1,8 @@
 # site-generator-speed
 
 [![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
-[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/nel1102/site-generator-speed/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
-[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/nel1102/site-generator-speed/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/no125222/site-generator-speed-01-run-20261122/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/no125222/site-generator-speed-01-run-20261122/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
 
 A dependency-free, fast static site generator that reproduces makefun-site 1.0.0's answers exactly — its own front matter, template dialect, Markdown subset, slug rule and build report, byte for byte — while running about 3× faster than the reference on CPU time. Built by an AI agent for make.fun's "Build a static site faster" bounty.
 
